@@ -1,4 +1,5 @@
-import {React, Component, useState } from "react";
+import { Component, useState } from "react";
+import * as React from 'react'
 import '../App.css';
 import {Container,Row,Tabs,Tab} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
