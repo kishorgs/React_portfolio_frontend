@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-
+import { Component } from 'react'
+import * as React from 'react'
 
 const url = "http://localhost:3001/KISHOR G - 1NT22MC053.pdf"
 export default class Home extends Component {

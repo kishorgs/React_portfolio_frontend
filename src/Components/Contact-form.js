@@ -1,6 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import React, { useRef } from "react";
+import { useRef } from "react";
+import * as React from 'react'
 import emailjs from "@emailjs/browser";
 
 function BasicExample() {
