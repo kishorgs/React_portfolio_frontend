@@ -1,6 +1,6 @@
 {
   "name": "navbar",
-  "homepage": "https://kishorgs.github.io/kishor_g_s",
+  "homepage": "https://kishorgs.github.io/Kishor_g_s",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts start --openssl-legacy-provider",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
