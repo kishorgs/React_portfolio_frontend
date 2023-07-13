@@ -2,6 +2,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import img1 from './img/DSC_0218.JPG'
 import img2 from './img/DSC_0219.JPG'
 import img3 from './img/DSC_0522(1).jpg'
+import React from 'react';
 
 function UncontrolledExample() {
   return (
