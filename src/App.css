@@ -95,7 +95,7 @@ header nav ul li .link:active{
   width:100vw;
   height:100%;
   text-align: center;
-  background-image: url("./Components/img/N.jpg");
+  background-image: url("./src/Components/img/N.jpg");
   background-color: rgba(0, 0, 0, 0.2);
   background-size: 100%;
   background-repeat: no-repeat;
