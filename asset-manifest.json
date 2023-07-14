@@ -1,7 +1,7 @@
 {
-  "main.css": "/Kishor_g_s/static/css/main.94449aad.chunk.css",
-  "main.js": "/Kishor_g_s/static/js/main.260076ad.chunk.js",
-  "main.js.map": "/Kishor_g_s/static/js/main.260076ad.chunk.js.map",
+  "main.css": "/Kishor_g_s/static/css/main.494b4c82.chunk.css",
+  "main.js": "/Kishor_g_s/static/js/main.902f1f32.chunk.js",
+  "main.js.map": "/Kishor_g_s/static/js/main.902f1f32.chunk.js.map",
   "static/js/1.efef7f6f.chunk.js": "/Kishor_g_s/static/js/1.efef7f6f.chunk.js",
   "static/js/1.efef7f6f.chunk.js.map": "/Kishor_g_s/static/js/1.efef7f6f.chunk.js.map",
   "static/css/2.79d6b61d.chunk.css": "/Kishor_g_s/static/css/2.79d6b61d.chunk.css",
@@ -9,6 +9,7 @@
   "static/js/2.8e62b3eb.chunk.js.map": "/Kishor_g_s/static/js/2.8e62b3eb.chunk.js.map",
   "runtime~main.js": "/Kishor_g_s/static/js/runtime~main.42ea5bb3.js",
   "runtime~main.js.map": "/Kishor_g_s/static/js/runtime~main.42ea5bb3.js.map",
+  "static/media/App.css": "/Kishor_g_s/static/media/N.f225d825.JPG",
   "static/media/DSC_0693-01.jpeg": "/Kishor_g_s/static/media/DSC_0693-01.9cdf7e65.jpeg",
   "static/media/Coding.jpg": "/Kishor_g_s/static/media/Coding.b21a8e5f.jpg",
   "static/media/Music.jpeg": "/Kishor_g_s/static/media/Music.5a15c726.jpeg",
@@ -16,9 +17,9 @@
   "static/media/DSC_0218.JPG": "/Kishor_g_s/static/media/DSC_0218.91891be7.JPG",
   "static/media/DSC_0219.JPG": "/Kishor_g_s/static/media/DSC_0219.45ad5f8e.JPG",
   "static/media/DSC_0522(1).jpg": "/Kishor_g_s/static/media/DSC_0522(1).b71638f0.jpg",
+  "static/css/main.494b4c82.chunk.css.map": "/Kishor_g_s/static/css/main.494b4c82.chunk.css.map",
   "static/css/2.79d6b61d.chunk.css.map": "/Kishor_g_s/static/css/2.79d6b61d.chunk.css.map",
-  "static/css/main.94449aad.chunk.css.map": "/Kishor_g_s/static/css/main.94449aad.chunk.css.map",
   "index.html": "/Kishor_g_s/index.html",
-  "precache-manifest.b4c68a1bfc6ff5e5e321fe4164ea59c4.js": "/Kishor_g_s/precache-manifest.b4c68a1bfc6ff5e5e321fe4164ea59c4.js",
+  "precache-manifest.e485ed9a73f8d1e84eab04287e75b03d.js": "/Kishor_g_s/precache-manifest.e485ed9a73f8d1e84eab04287e75b03d.js",
   "service-worker.js": "/Kishor_g_s/service-worker.js"
 }
