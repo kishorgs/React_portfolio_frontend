@@ -41,7 +41,7 @@ const Navbar = () => {
     <div className="logo"><h3>Kishor g s</h3></div>
       <nav ref={navRef} className="Navbar" id="Navbar">
         <ul>
-            <li><Link className="link" onClick={link} to="/">Home</Link></li>
+            <li><Link className="link" onClick={link} to="/Home">Home</Link></li>
             <li><Link className="link" onClick={link} to="/About">About</Link></li>
             <li><Link className="link" onClick={link} to="/My_works">My works</Link></li>
             <li><Link className="link" onClick={link} to="/Galary">Galary</Link></li>
