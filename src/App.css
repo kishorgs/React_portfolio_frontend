@@ -395,7 +395,7 @@ header nav ul li .link:active{
   }
 
   .Home #container{
-    background-image: url("/src/Components/img/M.jpeg");
+    background-image: url("./Components/img/M.jpeg");
     background-color: rgba(0, 0, 0, 0.2);
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
