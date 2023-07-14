@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "902f1f32a9d584f376a4",
-    "url": "/Kishor_g_s/static/css/main.494b4c82.chunk.css"
+    "revision": "e48a4603f83dc165d4b5",
+    "url": "/Kishor_g_s/static/css/main.d2aa2e25.chunk.css"
   },
   {
-    "revision": "902f1f32a9d584f376a4",
-    "url": "/Kishor_g_s/static/js/main.902f1f32.chunk.js"
+    "revision": "e48a4603f83dc165d4b5",
+    "url": "/Kishor_g_s/static/js/main.e48a4603.chunk.js"
   },
   {
     "revision": "efef7f6fa880e78d2a4c",
@@ -26,6 +26,14 @@ self.__precacheManifest = [
   {
     "revision": "f225d825c9011f304405e55cf74409fe",
     "url": "/Kishor_g_s/static/media/N.f225d825.JPG"
+  },
+  {
+    "revision": "b21a8e5f660eeed3be0ff1276da7173a",
+    "url": "/Kishor_g_s/static/media/Coding.b21a8e5f.JPG"
+  },
+  {
+    "revision": "a8460de5285e1e6d2d198b4734866f8c",
+    "url": "/Kishor_g_s/static/media/M.a8460de5.jpeg"
   },
   {
     "revision": "9cdf7e650a57a919b75382874c605110",
@@ -56,7 +64,7 @@ self.__precacheManifest = [
     "url": "/Kishor_g_s/static/media/DSC_0522(1).b71638f0.jpg"
   },
   {
-    "revision": "ac3bf7b2e2b4910522cafa33990590e4",
+    "revision": "e0a2cd327d5c27eeece4b1425bdb4da6",
     "url": "/Kishor_g_s/index.html"
   }
 ];
