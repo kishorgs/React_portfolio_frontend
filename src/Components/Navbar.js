@@ -43,7 +43,7 @@ const Navbar = () => {
         <ul>
             <li><Link className="link" onClick={link} to="/Home">Home</Link></li>
             <li><Link className="link" onClick={link} to="/About">About</Link></li>
-            <li><Link className="link" onClick={link} to="/My_works">My works</Link></li>
+            <li><Link className="link" onClick={link} to="/Myworks">My works</Link></li>
             <li><Link className="link" onClick={link} to="/Galary">Galary</Link></li>
             <li><Link className="link" onClick={link} to="/Contact">Contact</Link></li>
         </ul>
