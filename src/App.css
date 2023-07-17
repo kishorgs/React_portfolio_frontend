@@ -467,6 +467,10 @@ header nav ul li .link:active{
 
   .Contact-container{
     display: flex;
+    background-image: url("./Components/img/Coding.JPG");
+    background-size: 100%;
+    background-repeat: none;
+    background-blend-mode: multiply;
   }
 
   .Contact-component{
