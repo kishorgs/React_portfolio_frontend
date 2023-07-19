@@ -10,7 +10,7 @@ function BasicExample() {
     <div className="Card-container">
       <div className="container">
         <Card style={{ width: "18rem" }}>
-          <Card.Img className="card-img" variant="top" src={img1} />
+          <Card.Img className="card-img" variant="top" src={img1} alt="Coding"/>
           <Card.Body>
             <Card.Title>Coding</Card.Title>
             <Card.Text>
