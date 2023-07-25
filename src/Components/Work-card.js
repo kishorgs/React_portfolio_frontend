@@ -1,6 +1,6 @@
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
-import img1 from "./img/Music.jpeg";
+import img from "./img/Coding.jpg";
 import img2 from "./img/Music.jpeg";
 import img3 from "./img/p.jpg";
 import * as React from 'react';
@@ -10,7 +10,7 @@ function BasicExample() {
     <div className="Card-container">
       <div className="container">
         <Card style={{ width: "18rem" }}>
-          <Card.Img className="card-img" variant="top" src={img1} alt="Coding"/>
+          <Card.Img className="card-img" variant="top" src={img} alt="Coding"/>
           <Card.Body>
             <Card.Title>Coding</Card.Title>
             <Card.Text>
