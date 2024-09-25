@@ -1,4 +1,3 @@
-```markdown
 # Portfolio Website (Frontend)
 
 Welcome to my portfolio website! 🎉 This project showcases my skills as a developer, featuring projects I've worked on and the technologies I am proficient in.
@@ -74,10 +73,4 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-```
 
-### Instructions for Use
-- Replace `path/to/home_screenshot.png`, `path/to/gallery_screenshot.png`, etc., with the actual paths where you will store your screenshots.
-- Update `YOUR_GITHUB_USERNAME` and `YOUR_FRONTEND_REPO_NAME` in the setup instructions to match your GitHub account and repository name.
-
-Feel free to copy and paste this Markdown into your README file!
