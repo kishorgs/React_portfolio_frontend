@@ -26,7 +26,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 *The home section introduces visitors to my portfolio with a welcoming message and highlights of my skills.*
 
 ### Gallery Section
-![Gallery Section](img/gallery.png)
+![Gallery Section](img/galary.png)
 *The gallery section displays images from various projects I've worked on, showcasing my design and development capabilities.*
 
 ### Work Section
@@ -38,7 +38,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 *The contact section provides a way for visitors to get in touch with me, featuring a simple form for inquiries.*
 
 ### About Section
-![About Section](img/abount.png)
+![About Section](img/about.png)
 *The about section shares my background, skills, and journey as a developer, giving visitors insight into my professional experience.*
 
 ## Setup Instructions 🛠️
