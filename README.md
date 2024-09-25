@@ -15,8 +15,9 @@ Check out the live version of my portfolio website here: https://kishor-g-s.netl
 ## Technologies Used
 
 - ReactJS
-- CSS
-- HTML
+- NodeJS
+- MongoDB
+- ExpressJS
 
 ## Setup Instructions 🛠️
 
@@ -50,7 +51,3 @@ Check out the live version of my portfolio website here: https://kishor-g-s.netl
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
