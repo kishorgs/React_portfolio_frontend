@@ -23,7 +23,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 
 ### Home Section
 ![Home Section](img/home.png)
-*The home section introduces visitors to my portfolio with a welcoming message *
+*The home section introduces visitors to my portfolio with a welcoming message*
 
 ### About Section
 ![About Section](img/about.png)
@@ -35,7 +35,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 
 ### Gallery Section
 ![Gallery Section](img/galary.png)
-*The gallery section *
+*The gallery section*
 
 ### Contact Section
 ![Contact Section](img/contact.png)
