@@ -1,31 +1,38 @@
-//import logo from './logo.svg';
-import * as React from 'react'
+
+import { useState } from 'react';
 import './App.css';
-import { BrowserRouter,Routes,Route } from 'react-router-dom';
-import About from './Components/About';
-import Home from './Components/Home';
-import NoPage from './Components/NoPage';
-import Navbar from './Components/Navbar';
-import My_works from './Components/My works';
-import Contact from './Components/Contact';
-import Galary from './Components/Galary';
+import About from './Pages/About';
+import Contact from './Pages/Contact';
+import Gallery from './Pages/Gallery';
+import Home from './Pages/Home';
+import Project from './Pages/Project';
+import Navbar from './components/Navbar';
+import {BrowserRouter, Route,Routes} from 'react-router-dom'
+import LoadingBar from 'react-top-loading-bar'
 
 function App() {
+  const [progress, setProgress] = useState(0)
   return (
-    <div id='body'>
+    <>
     <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Navbar/>}>
-          <Route index path="Home" element={<Home/>}></Route>
-          <Route path="About" element={<About/>}></Route>
-          <Route path="Myworks" element={<My_works/>}></Route>
-          <Route path="Galary" element={<Galary/>}></Route>
-          <Route path="Contact" element={<Contact/>}></Route>
-          <Route path="*" element={<NoPage/>}></Route>
-        </Route>
-      </Routes>
+      <LoadingBar
+        color='#e60000'
+        progress={progress}
+        onLoaderFinished={() => setProgress(0)}
+      />
+    <Routes>
+      <Route path='/' element={<Navbar/>}>
+        <Route index element={<Home setProgress={setProgress}/>}/>
+        <Route path='/about' element={<About setProgress={setProgress}/>}/>
+        <Route path='/project' element={<Project setProgress={setProgress}/>}/>
+        <Route path='/contact' element={<Contact setProgress={setProgress}/>}/>
+        <Route path='/gallery' element={<Gallery setProgress={setProgress}/>}/>
+
+      </Route>
+    </Routes>
+    
     </BrowserRouter>
-    </div>
+    </>
   );
 }
 

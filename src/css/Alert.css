@@ -1,0 +1,42 @@
+.alert {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 100%;
+    /* right: 0px; */
+    padding: 10px 0;
+    border: 0.5px solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .alert p{
+    margin: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .alert-success {
+    background-color: #a9f1ab;
+    color: black;
+  }
+
+  .alert-info {
+    background-color: #24a0ed;
+    color: black;
+  }
+  
+  .alert-error {
+    background-color: #e07b73;
+    color: black;
+  }
+  
+  .close-button {
+    border: none;
+    background: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: inherit;
+  }
+  

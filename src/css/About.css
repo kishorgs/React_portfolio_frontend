@@ -1,0 +1,191 @@
+/* .About .container{
+  display: flex;
+  justify-content: center;
+  padding:5rem 0;
+  width:100%;
+  height: calc(100vh - 322px);
+}
+
+
+.about-col-1{
+  flex-basis: 35%;
+}
+
+.about-col-1 img{
+  width:100%;
+  border-radius: 20px;
+  padding:2rem;
+  padding-top:0;
+}
+
+.about-col-2{
+  flex-basis: 60%;
+  padding-right: 2rem;
+  word-wrap: break-word;
+}
+
+
+.About .container h2{
+  font-size: 60px;
+  font-weight: 500;
+}
+
+.About .container p{
+  text-align: justify;
+}
+
+.About .container ul li{
+  padding:0.5rem;
+}
+
+
+.About .container h2 span{
+  color:#007DFE;
+}
+
+.About .row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width:100%;
+}
+
+.About .nav-link.active{
+  background:transparent;
+}
+
+
+.nav-pills .nav-item .nav-link{
+  background:transparent;
+  color:#007DFE;
+  position: relative;
+  text-align: left;
+  padding-left: 0;
+}
+
+.nav-pills .nav-item .nav-link:after{
+  content:" ";
+  position: absolute;
+  background-color:#007DFE;
+  height:3px;
+  width:0;
+  left:0;
+  bottom:0;
+  transition: 0.4s;
+}
+
+.nav-pills .nav-item .nav-link.active:after{
+  width:40%;
+}
+
+.nav-pills .nav-item .nav-link.active{
+  background-color: transparent;
+  color:#007DFE;
+}
+
+
+.nav-pills .nav-item{
+  height:50px;
+}
+
+
+.tab-links{
+  transform: translateY(-4rem);
+}
+
+.nav-close-btn{
+  visibility: hidden;
+} */
+
+.main-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: calc(100vh - 50px);
+}
+
+.image-about{
+  padding: 1rem;
+  width: 40%;
+}
+
+.content{
+
+  width: 60%;
+  padding: 0 5rem;
+  height: 35rem;
+}
+
+.image-about img{
+  display: block;
+  margin: auto;
+  width: 350px;
+}
+
+
+.about-me h2 span{
+  color:#007DFE;
+}
+
+.about-me h2{
+  font-size: 60px;
+  font-weight: 500;
+}
+
+.about-me p{
+  text-align: justify;
+}
+
+.main-container .nav-link.active{
+  background:transparent;
+}
+
+.skills{
+  margin-top: 80px;
+}
+
+.nav-pills .nav-item .nav-link{
+  background:transparent;
+  color:#007DFE;
+  position: relative;
+  text-align: left;
+  padding-left: 0;
+}
+
+.nav-pills .nav-item .nav-link:after{
+  content:" ";
+  position: absolute;
+  background-color:#007DFE;
+  height:3px;
+  width:0;
+  left:0;
+  bottom:0;
+  transition: 0.4s;
+}
+
+.nav-pills .nav-item .nav-link.active:after{
+  width:40%;
+}
+
+.nav-pills .nav-item .nav-link.active{
+  background-color: transparent;
+  color:#007DFE;
+}
+
+
+.nav-pills .nav-item{
+  height:50px;
+}
+
+
+.tab-links{
+  transform: translateY(-4rem);
+}
+
+.nav-close-btn{
+  visibility: hidden;
+}
+
+.main-container .container ul li{
+  padding:0.5rem;
+}

@@ -1,0 +1,49 @@
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: calc(100vh - 54px);
+}
+
+.text {
+  width: 50%;
+  padding: 2rem;
+}
+
+.text h1 {
+  font-size: 5vw;
+}
+
+.text p {
+  font-size: 1.2rem;
+  text-align: justify;
+}
+
+.social-links a {
+  color: #007dfe;
+}
+
+.social-links i:hover {
+  color: black;
+}
+
+.social-links i {
+  margin: 1rem;
+  font-size: 1.5rem;
+}
+
+.cta-btn {
+  padding: 12px;
+  background-color: #007dfe;
+  margin-top: 2rem;
+  color: white;
+  font-size: 1rem;
+  font-weight: bolder;
+  border-collapse: collapse;
+  border-radius: 0.8rem;
+}
+
+.typeWriterText {
+  font-size: 1.6rem;
+  color: #007dfe;
+}

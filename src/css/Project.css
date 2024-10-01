@@ -1,0 +1,101 @@
+
+
+.heading{
+    text-align: center;
+    margin: 2rem;
+}
+
+.project-container{
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    padding: 1.2rem 0.1rem;
+    gap: 2rem;
+    width: 80%;
+}
+
+.image-container img{
+    height:250px;
+}
+
+.description{
+    width: 60%;
+   
+}
+
+.cta-buttons{
+    padding: 12px;
+    background-color: #007DFE;
+    margin-top: 2rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: bolder;
+    border-collapse: collapse;
+    border-radius: 0.8rem;
+}
+
+
+@media screen and (max-width:480px)and (min-width:427px){
+
+    .project-container{
+        flex-direction: column;
+        width: 95%;
+    }
+
+    
+.description{
+    width: 100%;
+    margin-top: 1rem;
+    padding: 1.2rem;
+}
+
+.image-container img{
+    height:250px;
+    width: 400px;
+}
+}
+
+@media screen and (max-width:1000px) and (min-width:480px){
+
+    .project-container{
+        flex-direction: column;
+        width: 95%;
+    }
+
+    
+.description{
+    width: 95%;
+    margin-top: 1rem;
+    padding: 1.2rem;
+}
+
+.image-container img{
+    height:250px;
+    width: 350px;
+}
+}
+
+@media screen and (max-width:427px) {
+
+    .project-container{
+        flex-direction: column;
+        width: 90%;
+    }
+
+    
+.description{
+    width: 95%;
+    margin-top: 1rem;
+    padding: 1.2rem;
+}
+
+.image-container img{
+    height:250px;
+    width: 250px;
+}
+}
