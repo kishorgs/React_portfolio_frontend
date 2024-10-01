@@ -65,13 +65,13 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/kishorgs/kishor_g_s.git
+   git clone https://github.com/kishorgs/React_portfolio_frontend.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd kishor_g_s
+   cd React_portfolio_frontend
    ```
 
 3. **Install dependencies**
