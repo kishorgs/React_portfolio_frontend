@@ -22,7 +22,8 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 ## Screenshots 📸
 
 ### Home Section
-![image](https://github.com/user-attachments/assets/8fe2b4db-c841-4db3-8193-85d247488b8c)
+![image](https://github.com/user-attachments/assets/0d927cb2-d818-4cef-b4cf-fe0db6946d64)
+
 *The home section introduces visitors to my portfolio with a short introduction and link to download the resume and links to all social media profiles*
 
 ### About Section
