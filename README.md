@@ -22,24 +22,41 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 ## Screenshots 📸
 
 ### Home Section
+
 ![image](https://github.com/user-attachments/assets/0d927cb2-d818-4cef-b4cf-fe0db6946d64)
 
 *The home section introduces visitors to my portfolio with a short introduction and link to download the resume and links to all social media profiles*
 
 ### About Section
-![About Section](img/about.png)
+
+![image](https://github.com/user-attachments/assets/34703dcd-baa2-4f96-aff5-0647df382bf4)
+
+![image](https://github.com/user-attachments/assets/ce7eec2e-4bef-4f67-a31b-249161fd221b)
+
+![image](https://github.com/user-attachments/assets/04c1cfa7-63bb-42fb-9dd0-631a10e68b9a)
+
 *The about section shares my background, skills, and journey as a developer, giving visitors insight into my professional experience.*
 
 ### Work Section
-![Work Section](img/work.png)
+
+![image](https://github.com/user-attachments/assets/dedc9ba1-aa3e-42e3-bdf4-db17f140d6ae)
+
+![image](https://github.com/user-attachments/assets/23193383-224d-4e2a-9610-0238453b0567)
+
+![image](https://github.com/user-attachments/assets/b9662f2e-e6e6-48b4-843d-12bf3b5771a7)
+
 *In the work section, I detail the projects I've completed, including descriptions and links for further exploration.*
 
 ### Gallery Section
-![Gallery Section](img/galary.png)
+
+![image](https://github.com/user-attachments/assets/83b061e4-66b3-4552-b1a0-12c6ba7700bb)
+
 *The gallery section*
 
 ### Contact Section
-![Contact Section](img/contact.png)
+
+![image](https://github.com/user-attachments/assets/a9589fb0-1d81-44f9-b36b-0b7b1b614bf4)
+
 *The contact section provides a way for visitors to get in touch with me, featuring a simple form for inquiries.*
 
 
@@ -48,7 +65,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_FRONTEND_REPO_NAME.git
+   git clone https://github.com/kishorgs/kishor_g_s.git
    ```
 
 2. **Navigate to the project directory**
