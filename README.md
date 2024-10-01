@@ -71,7 +71,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 2. **Navigate to the project directory**
 
    ```bash
-   cd YOUR_FRONTEND_REPO_NAME
+   cd kishor_g_s
    ```
 
 3. **Install dependencies**
