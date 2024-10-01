@@ -22,7 +22,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
 ## Screenshots 📸
 
 ### Home Section
-![Home Section](img/home.png)
+![image](https://github.com/user-attachments/assets/8fe2b4db-c841-4db3-8193-85d247488b8c)
 *The home section introduces visitors to my portfolio with a welcoming message*
 
 ### About Section
