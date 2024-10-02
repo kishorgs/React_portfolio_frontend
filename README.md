@@ -87,6 +87,7 @@ Check out the live version of my portfolio website here: [https://kishor-g-s.net
    ```
 
 5. **Open your browser**
+   
    Visit `http://localhost:3000` to view the website!
 
 ## Contributing 🤝
